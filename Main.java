@@ -1,4 +1,4 @@
-package GUI_Practice;
+
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -15,9 +15,9 @@ public class Main {
         // jFrame.setSize(500, 500);
         // jFrame.setLocation(300, 200);
         // jFrame.setVisible(true);
-        MyJFrame jFrame1 = new MyJFrame("Testing the GUI");
+        //MyJFrame jFrame1 = new MyJFrame("Testing the GUI");
         //MyJFrame jFrame2 = new MyJFrame();
-        
-
+        //
+        TicTacToeGame ticTacToeGame = new TicTacToeGame();
     }
 }
